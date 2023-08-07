@@ -1,0 +1,2 @@
+int a=5;
+printf("The value of a=%d", a);

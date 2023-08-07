@@ -1,0 +1,13 @@
+int is a INT
+a is Identifier
+= is a Assignment Operator
+5 is a Number
+; is a Semicolon
+
+printf is Identifier
+( is a LP
+"The value of a=%d" is a Literal
+, is a comma
+a is Identifier
+) is a RP
+; is a Semicolon
